@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <slide>
+        <name>
+        English
+        </name>
+        <img>
+        img/britan.png
+        </img>
+    </slide>
+    <slide>
+        <name>
+            Chine
+            </name>
+        <img>
+            img/Chine.png
+            </img>
+    </slide>
+    <slide>
+        <name>
+                Deutsch
+                </name>
+        <img>
+                Buy the course
+                </img>
+    </slide>
+    <slide>
+        <name>
+                    Russia
+                    </name>
+        <img>
+                    img/Russia.jpg
+                    </img>
+    </slide>
+
+</root>

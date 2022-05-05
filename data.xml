@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <ul>
+
+   <class>
+   none
+   </class>
+ <name>  Home</name>
+
+   </ul>
+     <ul>
+        <class>
+   skills
+   </class>
+ <name>  Skills
+</name>
+
+   </ul>
+     <ul>
+        <class>
+  about_us
+   </class>
+ <name> About us
+</name>
+
+   </ul>
+     <ul>
+       <class>
+  priising
+   </class>
+ <name>  Pricing
+</name>
+
+   </ul>
+   
+        <ul>
+         <class>
+  contacts_btn
+   </class>
+ <name> Contacts
+</name>
+
+   </ul>
+
+</root>
